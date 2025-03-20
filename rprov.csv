@@ -1,0 +1,235 @@
+column,code
+ City of Manila,3900
+ City of Mandaluyong,7401
+ City of Marikina,7402
+ City of Pasig,7403
+ Quezon City,7404
+ City of San Juan,7405
+ Caloocan City,7501
+ City of Malabon,7502
+ City of Navotas,7503
+ City of Valenzuela,7504
+ City of Las Piñas,7601
+ City of Makati,7602
+ City of Muntinlupa,7603
+ City of Parañaque,7604
+ Pasay City,7605
+ Pateros,7600
+ Taguig City,7607
+Ilocos Norte,2800
+Ilocos Sur,2900
+La Union,3300
+Pangasinan,5500
+Batanes,900
+Cagayan,1500
+Isabela,3100
+Nueva Vizcaya,5000
+Quirino,5700
+Aurora,7700
+Bataan,800
+Bulacan,1400
+Nueva Ecija,4900
+ Pampanga(Excluding Angeles City),5400
+ Angeles City,5401
+Tarlac,6900
+ Zambales (Excluding Olongapo City),7100
+ Olongapo City,7107
+Batangas,1000
+Cavite,2100
+Laguna,3400
+ Quezon (Excluding Lucena City),5600
+ Lucena City,5624
+Rizal,5800
+Marinduque,4000
+Occ Mindoro,5100
+Or Mindoro,5200
+ Palawan (Excluding Puerto Princesa City),5300
+ Puerto Princesa City,5316
+Romblon,5900
+Albay,500
+Cam Norte,1600
+Cam Sur,1700
+Catanduanes,2000
+Masbate,4100
+Sorsogon,6200
+Aklan,400
+Antique,600
+Capiz,1900
+Guimaras,7900
+ Iloilo (Excluding Iloilo City),3000
+ Iloilo City,3022
+Negros Occidental (Excluding Bacolod City),4500
+Bacolod City,4501
+Bohol,1200
+"Other Cebu (Excluding Cebu City, Lapu-Lapu City and Mandaue City)",2200
+Cebu City,2217
+Lapu-Lapu City,2226
+Mandaue City,2230
+Negros Oriental,4600
+Siquijor,6100
+Biliran,7800
+E. Samar,2600
+Leyte (Excluding Tacloban City),3700
+ Tacloban City,3747
+N. Samar,4800
+W. Samar,6000
+S. Leyte,6400
+Zambo Norte,7200
+Zamboanga del Sur (Excluding Zamboanga City),7300
+ Zamboanga City,7332
+Zambo Sibugay,8300
+City of Isabela,9700
+Bukidnon,1300
+Camiguin,1800
+Lanao del Norte (Excluding Iligan City),3500
+Iligan City,3504
+Misamis Occ,4200
+Misamis Oriental (Excluding Cagayan de Oro City),4300
+Cagayan de Oro City,4305
+Compostela V,8200
+Davao Norte,2300
+Davao del Sur (Excluding Davao City and Davao Occidental),2400
+Davao City,2402
+Davao Oriental,2500
+Davao Occidental,8600
+N. Cotabato,4700
+Sarangani,8000
+South Cotabato (Excluding General Santos City),6300
+General Santos City,6303
+Sultan Kudarat,6500
+Cotabato City,9804
+Abra,100
+Apayao,8100
+Benguet (Excluding Baguio City),1100
+Baguio City,1102
+Ifugao,2700
+Kalinga,3200
+Mt Province,4400
+Basilan,700
+Lanao del Sur,3600
+Maguindanao,3800
+Sulu,6600
+Tawi-Tawi,7000
+Agusan del Norte (Excluding Butuan City),200
+Butuan City,202
+Agusan Sur,300
+Surigao Norte,6700
+Surigao Sur,6800
+Dinagat Islands,8500
+ City of Manila,3900
+ City of Mandaluyong,7401
+ City of Marikina,7402
+ City of Pasig,7403
+ Quezon City,7404
+ City of San Juan,7405
+ Caloocan City,7501
+ City of Malabon,7502
+ City of Navotas,7503
+ City of Valenzuela,7504
+ City of Las Piñas,7601
+ City of Makati,7602
+ City of Muntinlupa,7603
+ City of Parañaque,7604
+ Pasay City,7605
+ Pateros,7600
+ Taguig City,7607
+Ilocos Norte,2800
+Ilocos Sur,2900
+La Union,3300
+Pangasinan,5500
+Batanes,900
+Cagayan,1500
+Isabela,3100
+Nueva Vizcaya,5000
+Quirino,5700
+Aurora,7700
+Bataan,800
+Bulacan,1400
+Nueva Ecija,4900
+ Pampanga(Excluding Angeles City),5400
+ Angeles City,5401
+Tarlac,6900
+ Zambales (Excluding Olongapo City),7100
+ Olongapo City,7107
+Batangas,1000
+Cavite,2100
+Laguna,3400
+ Quezon (Excluding Lucena City),5600
+ Lucena City,5624
+Rizal,5800
+Marinduque,4000
+Occ Mindoro,5100
+Or Mindoro,5200
+ Palawan (Excluding Puerto Princesa City),5300
+ Puerto Princesa City,5316
+Romblon,5900
+Albay,500
+Cam Norte,1600
+Cam Sur,1700
+Catanduanes,2000
+Masbate,4100
+Sorsogon,6200
+Aklan,400
+Antique,600
+Capiz,1900
+Guimaras,7900
+ Iloilo (Excluding Iloilo City),3000
+ Iloilo City,3022
+Negros Occidental (Excluding Bacolod City),4500
+Bacolod City,4501
+Bohol,1200
+"Other Cebu (Excluding Cebu City, Lapu-Lapu City and Mandaue City)",2200
+Cebu City,2217
+Lapu-Lapu City,2226
+Mandaue City,2230
+Negros Oriental,4600
+Siquijor,6100
+Biliran,7800
+E. Samar,2600
+Leyte (Excluding Tacloban City),3700
+ Tacloban City,3747
+N. Samar,4800
+W. Samar,6000
+S. Leyte,6400
+Zambo Norte,7200
+Zamboanga del Sur (Excluding Zamboanga City),7300
+ Zamboanga City,7332
+Zambo Sibugay,8300
+City of Isabela,9700
+Bukidnon,1300
+Camiguin,1800
+Lanao del Norte (Excluding Iligan City),3500
+Iligan City,3504
+Misamis Occ,4200
+Misamis Oriental (Excluding Cagayan de Oro City),4300
+Cagayan de Oro City,4305
+Compostela V,8200
+Davao Norte,2300
+Davao del Sur (Excluding Davao City and Davao Occidental),2400
+Davao City,2402
+Davao Oriental,2500
+Davao Occidental,8600
+N. Cotabato,4700
+Sarangani,8000
+South Cotabato (Excluding General Santos City),6300
+General Santos City,6303
+Sultan Kudarat,6500
+Cotabato City,9804
+Abra,100
+Apayao,8100
+Benguet (Excluding Baguio City),1100
+Baguio City,1102
+Ifugao,2700
+Kalinga,3200
+Mt Province,4400
+Basilan,700
+Lanao del Sur,3600
+Maguindanao,3800
+Sulu,6600
+Tawi-Tawi,7000
+Agusan del Norte (Excluding Butuan City),200
+Butuan City,202
+Agusan Sur,300
+Surigao Norte,6700
+Surigao Sur,6800
+Dinagat Islands,8500
