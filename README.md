@@ -11,7 +11,7 @@ Members
 ```
 python -m venv venv
 venv\Scripts\activate
-pip install jupyterlab numpy pandas matplotlib seaborn scikit-learn
+pip install jupyterlab numpy pandas matplotlib seaborn scikit-learn mlxtend
 ```
 
 ## Dataset
